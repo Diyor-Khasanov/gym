@@ -43,7 +43,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Diyor Khasanov - [your-email@example.com](mailto:bdiyorxasanov@gmail.com)  
-Project Link: [https://github.com/Diyor-Khasanov/gym](https://github.com/Diyor-Khasanov/gym)
